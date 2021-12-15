@@ -1,2 +1,2 @@
-# python-data-analysis-fcc-projects
+# Data Analysis With Python 
 Projects from FreeCodeCamp's course "Data Analysis With Python"
